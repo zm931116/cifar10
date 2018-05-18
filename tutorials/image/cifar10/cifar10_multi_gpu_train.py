@@ -34,6 +34,7 @@ Please see the tutorial and website for how to download the CIFAR-10
 data set, compile the program and train the model.
 
 http://tensorflow.org/tutorials/deep_cnn/
+aasdfasdfasdfasdf
 """
 from __future__ import absolute_import
 from __future__ import division
